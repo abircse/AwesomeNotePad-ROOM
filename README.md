@@ -8,4 +8,4 @@ An Implementation of Room Database with Google Recommended New Android Architect
 * Dagger Hilt
 * UIState
 
-![Screenshot_20220318-164135](https://user-images.githubusercontent.com/22006238/158988706-992aae2f-2cb1-438e-82ec-d68571e557a8.png)
+![smartmockups_l0wayei2](https://user-images.githubusercontent.com/22006238/158990261-410fd475-fc86-4695-bff4-56b022927c22.jpg)
