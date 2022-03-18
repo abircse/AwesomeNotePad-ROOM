@@ -1,5 +1,5 @@
 # Awesome NotePad App
-An Implementation of Room Database Google Recommended New Android Architecture with Kotlin for make a simple Note Pad app.
+An Implementation of Room Database with Google Recommended New Android Architecture with Kotlin for make a simple Note Pad app.
 
 # Uses Technology/Kits
 * MVVM
